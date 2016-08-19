@@ -10,7 +10,7 @@ import java.util.UUID;
  * Created by ND on 8/18/2016.
  */
 
-//Singleton implementation
+//Crimelab as a Singleton implementation
 public class CrimeLab {
     private static CrimeLab sCrimeLab;
     private List<Crime> mCrimes;
